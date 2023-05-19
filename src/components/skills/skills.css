@@ -24,8 +24,8 @@
     column-gap: 2.5rem;
 }
 
-/*.skills__group{
+.skills__group{
     display: grid;
     align-items: flex-start;
     row-gap: 1rem;
-}*/
+}
