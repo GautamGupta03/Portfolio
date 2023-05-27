@@ -25,7 +25,7 @@ const Footer = () => {
         </a>
         </div>
 
-        <span className='footer__copy'>&#169; GautamGupta. All rights reserved</span>
+        <span className='footer_copy'>&#169; GautamGupta. All rights reserved</span>
        </div>
     </footer>
   )
